@@ -1,0 +1,5 @@
+{
+  "name": "Pasaporte de Salud Digital - Prototipo",
+  "description": "Prototipo visual interactivo simulando el flujo entre médico y paciente con validación de IA sobre Avalanche Subnet.",
+  "requestFramePermissions": []
+}
